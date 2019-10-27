@@ -117,7 +117,7 @@
 	}
 	
 	/* Style rule for input, select, and textarea form elements */
-	input, select, texarea {
+	input, select, texatrea {
 			display: block;
 			margin-bottom: 1em;
 	}
@@ -274,7 +274,7 @@
 	}
 	
 	/* Style for unordered list element contained within the main article element */
-	 mail article ul {
+	 main article ul {
 		text-align: left;
 	}
 	
