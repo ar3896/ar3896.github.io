@@ -117,7 +117,7 @@
 	}
 	
 	/* Style rule for input, select, and textarea form elements */
-	input, select, texatrea {
+	input, select, textarea {
 			display: block;
 			margin-bottom: 1em;
 	}
